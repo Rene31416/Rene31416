@@ -1,4 +1,4 @@
-# René Miranda (Oscar René Miranda) 👋
+# Oscar Miranda 👋
 **Backend Engineer — AWS / Serverless · TypeScript / Node.js**
 
 I build event-driven backend systems on AWS: APIs, queues, Lambdas, DynamoDB, observability, and CI/CD.  
